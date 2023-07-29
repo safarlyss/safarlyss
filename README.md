@@ -13,3 +13,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=safarlyss&" alt="safarlyss" /></p>
 
+![snake gif](https://github.com/safarlyss/safarlyss/blob/output/github-contribution-grid-snake.gif)
